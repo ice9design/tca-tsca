@@ -1,0 +1,280 @@
+$PC:SECURE$
+<!DOCTYPE html>
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="iso-8859-1" />
+<meta name="viewport" content="width=device-width" />
+<meta name="handheldFriendly" content="true">
+<meta name="MobileOptimized" content="320"/>
+<title>Texas School Counseling Association | $AC:SKIN_PAGETITLE$</title>
+<meta name="keywords" content="$AC:SKIN_PAGEKEYWORDS$">
+<meta name="description" content="$AC:SKIN_PAGEDESCRIPTION$">
+<meta name="revisit-after" content="15 days">
+<meta name="robots" content="index,follow,archive">
+<meta name="language" content="en-us">
+<meta name="rating" content="General">
+<meta name="copyright" content="Texas School Counseling Association | ESX Inc. http://www.esxinc.com">
+<meta name="distribution" content="Global">
+
+<!-- Social Sharing -->
+<meta property="og:site_name" content="Texas School Counseling Association" />
+<meta property="og:title" content="$AC:SKIN_PAGETITLE$ | " />
+<meta property="og:url" content="">
+<meta property="og:type" content="website" />
+<meta property="og:image" content="logo.png" />
+<meta property="og:description" content="" />
+
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="/images/tca/TSCA/stylesheets/TSCA.css">
+<link rel="stylesheet" href="/images/tca/Template/2013/stylesheets/foundation.min.css">
+<link rel="stylesheet" href="/images/tca/TSCA/stylesheets/app.css">
+<script src="/images/tca/Template/2013/javascripts/modernizr.foundation.js"></script>
+
+<!-- Included JS Files (Compressed) -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/images/tca/Template/2013/javascripts/jquery.min.js"><\/script>')</script>
+
+
+<!-- This is the Ad Analytics code -->
+
+<script src="//assets.adobedtm.com/c876840ac68fc41c08a580a3fb1869c51ca83380/satelliteLib-84b00ce37dfe34ed18c2ac1fe206e171e5129294.js"></script>
+
+<!-- Place this code in the footer of the website -->
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+
+</head>
+<body class="home">
+
+<!-- mmenu wrapper -->
+<div class="wrapper">
+
+
+<!-- Top Navigation -->
+<div class="top-nav-bg hide-on-print"> </div>
+<!-- End Top Navigation --> 
+
+<!-- Header -->
+<div class="header-bg">
+  <div class="row trans-wht">
+
+    <div class="eight columns logo" style="padding-top: 5px !important;">  
+<a href="#menu" class="mmenu-toggle"> </a>
+<a href="$AC:MENUURL:170$"><img src="/images/tca/Template/TSCA/TSCA_logo.png" alt="Texas School Counselor Association"></a> 
+    <!-- Header Navigation -->
+    
+    <dl class="sub-nav push-four columns">
+      <dd><a href="$AC:MENUURL:170$">TSCA Home</a></dd>
+      <dd><a href="$AC:MENUURL:1$">TCA Home</a></dd>
+      <dd><a href="$AC:MENUURL:226$">Help</a></dd>
+      <dd><a href="$AC:MENUURL:595$">Contact Us</a></dd>
+    </dl>
+    </div>
+    
+    <div class="four columns hide-on-print"> 
+      
+       <div class="login-box panel">
+        
+       $LC:ISLOGGEDINAREA:2013 Member Box:2013 Login Form$   
+        
+      </div>
+      <!-- End Header Navigation --> 
+    </div>
+  </div>
+</div>
+<!-- End Header --> 
+
+<!-- Dropdown Navigation -->
+<div class="dropdown-bg hide-on-print">
+  <div class="row collapse">
+    <div class="twelve columns"> 
+    
+        <nav class="menu" id="menu">
+             $AC:MENU:594,591,326,604,586,590,630:TRUE:ulTM-SF:li1:li2:li2:li2:ulE$
+        </nav>
+    
+    </div>
+  </div>
+</div>
+<!-- End Dropdown Navigation --> 
+
+<!-- Billboard -->
+<div class="billboard-bg hide-on-print">
+  <div class="row">
+    <div class="twelve columns">
+      
+        <!-- FlexSlider Files -->
+        <link rel="stylesheet" href="/images/tca/Template/2013/javascripts/libs/flexslider/flexslider.css">
+        <script src="/images/tca/Template/2013/javascripts/libs/flexslider/jquery.flexslider-min.js"></script>
+        
+        <script>
+        $(document).ready(function(){
+          $('.flexslider').flexslider({
+            animation: "fade",
+            slideshow: true,
+            controlNav: false,
+            directionNav: true,
+            randomize: false,
+            smoothHeight: true
+          });
+        });
+        </script>
+        
+        <div class="flexslider">
+          <ul class="slides">
+
+<li><img src="https://www.txca.org/images/Divisions/TSCA/Revamp/TSCA_2016_Slider_V1.jpg"></li>
+<li><img src="https://www.txca.org/images/Divisions/TSCA/Revamp/TSCA_2016_Slider_V2.jpg"></li>
+<li><img src="https://www.txca.org/images/Divisions/TSCA/Revamp/TSCA_2016_Slider_V3.jpg"></li>
+<li><img src="https://www.txca.org/images/Divisions/TSCA/Revamp/TSCA_2016_Slider_V4.jpg"></li>
+<li><img src="https://www.txca.org/images/Divisions/TSCA/Revamp/TSCA_2016_Slider_V5.jpg"></li>
+<li><img src="https://www.txca.org/images/Divisions/TSCA/Revamp/TSCA_2016_Slider_V6.jpg"></li>
+<li><img src="https://www.txca.org/images/Divisions/TSCA/Revamp/TSCA_2016_Slider_V7.jpg"></li>
+<li><img src="https://www.txca.org/images/Divisions/TSCA/Revamp/TSCA_2016_Slider_V8.jpg"></li>
+            
+          </ul>
+        </div>
+      
+    </div>
+  </div>
+</div>
+<!-- End Billboard --> 
+
+<!-- Content -->
+<div class="content-bg">
+  <div class="row trans-wht">
+    <div class="eight columns content">
+      <div class="padding">
+		$AC:CONTENTAREA$
+      </div>
+    </div>
+    <div class="four columns sidebar">
+     
+      <div class="find-counselor">
+        <h2><a href="/assnfe/SearchMembers.asp?TYPE=REFERRALBANK">Find a Counselor</a></h2>
+      </div>
+      <div class="save-date">
+      
+        <h2>Inside TSCA ... </h2>
+        
+        <div class="row section-links">
+        <div class="six columns">
+       	<A href="$AC:MENUURL:591$">Leadership</A>
+        <A href="$AC:MENUURL:958$">GroupSpaces</A>
+        </div>
+        <div class="six columns">
+        <A href="$AC:MENUURL:326$">Crest</A>
+        <A href="$AC:MENUURL:630$">Toolkits</A>
+        </div>
+      
+        
+        
+        
+        </div>
+        
+      </div>
+      <div class="course-cat">
+        <h2>Online Learning</h2>
+        <p><a href="/online">The TCA Online Learning Series offers On Demand webinars and modules over the internet to support the professional development needs of professional counselors in a variety of work settings.</a></p>
+      </div>
+      
+<!-- Place this code where the leaderboard is to appear -->
+
+<!--<div id="mvBoxAd" style="text-align:center;">
+<script type="text/javascript">var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".multiview.com/ados.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);</script>
+<script type="text/javascript">
+var ados = ados || {};
+ados.run = ados.run || [];
+ados.run.push(function() {
+/* load placement for account: Multiview, site: TXCAweb - Texas School Counseling Association - MultiWeb, size: 312x200 - 312 x 200, zone: TXCAweb - Skyscraper - 312x200*/
+ados_add_placement(4466, 70632, "mvBoxAd", 2604).setZone(126245);
+ados_setDomain('engine.multiview.com');
+ados_load();
+});</script></div>-->
+
+
+    </div>
+  </div>
+</div>
+<!-- End Content --> 
+
+<!-- Footer -->
+<div class="row footer-bg hide-on-print">
+  <div class="twelve columns">
+    <div class="row">
+ 
+     
+        <div class="padding"><table border="0" width="100%"><tr><td valign="top" style="padding-right: 10px; " width="20%"><img src="https://www.txca.org/images/Conference/SCC/17/Template/TCA_Logo_Tag_White.png" alt="Texas Counseling Association" width="125" height="153" /></td><td width="40%"valign="top" style="color: #fff;">
+         <p>Copyright 2017 Texas School Counselor Association<BR>
+            </p>
+          <p>Phone: (512) 472-3403<br />
+(800) 580-8144<br />
+Fax: (512) 472-3756</p>
+          <p><a href="/images/tca/Documents/2013PrivacyPolicy.pdf">Privacy Policy</a> | <a href="/images/tca/Documents/2013TOS.pdf">Terms of Service</a></p></td>
+          <td valign="top" width="40%">
+           <div class="padding">         
+    
+    <form action="/SearchPage.asp" method="post" class="form-wrapper cf" />
+          
+          <div class="row collapse"><table><tr><td>   
+              <input type="hidden" name="MODE" value="FINDRESULTS"/>
+              <input type="hidden" name="SnID" value="$LC:SNID$"/>
+              <input name="Srch_Text" type="text"  class="searchfield" value="Search Website" maxlength="1000" />
+             </td><td width="30%"><div style="width: 60px;"> <a class="button expand postfix">Search</a> </div></td></tr></table>
+         
+          
+          </div>
+          </form>
+          
+          <div class="xCat-Bug">
+            <a href="http://www.esxinc.com">Powered by xCatalyst<br>
+            Association Management Software</a>
+          </div>
+    
+      	</div>
+          </td>
+          </tr></table>
+        </div>
+     
+      <!--<div class="three columns">
+      <ul class="side-nav">          
+          <li><a href="#">Help Desk</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </div>-->
+     
+         
+     
+    </div>
+  </div>
+</div>
+
+
+<!-- /mmenu wrapper -->
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12077367-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- End Footer --> 
+
+<!-- Initialize JS Plugins --> 
+<script src="/images/tca/Template/2013/javascripts/app.js"></script> 
+
+</body>
+</html>
